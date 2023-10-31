@@ -1,0 +1,25 @@
+h1{
+	background-color:limegreen;
+    color:white;
+}
+#idc{
+	background-color:red;
+	color:white;
+   }
+   img{
+   	width:800px;
+   	hieght:500px;
+   }
+   #frank{
+background-color: limegreen;
+   }
+   #dank{
+background-color: red;
+   }
+   #big{
+      width:300px;
+      height: 300px;
+   }
+#idk{
+   float: right;
+}
